@@ -1,0 +1,9 @@
+.banner {
+    height: 776px;
+    background-color: #31065A;
+    color: white;
+    padding: 200px 146px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

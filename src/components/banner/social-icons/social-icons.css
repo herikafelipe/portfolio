@@ -1,0 +1,18 @@
+.SocialIconBtn {
+    border: 2px solid white;
+    border-radius: 50%;
+    height: 15px;
+    padding: 2px;
+    margin-right: 33px;
+
+}
+
+.SocialIcons {
+    margin: 30px 0;
+}
+
+.SocialIcons img {
+    height: 13px;
+    width: 14px;
+    margin: 0px 2.5px;
+}
