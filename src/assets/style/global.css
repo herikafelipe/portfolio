@@ -3,3 +3,7 @@
 * {
     font-family: 'Exo 2', sans-serif;
 }
+
+:root {
+    --hf-orange: #F86F03;
+}

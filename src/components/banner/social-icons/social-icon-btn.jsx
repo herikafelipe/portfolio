@@ -1,9 +1,9 @@
 
 
-function SocialIconBtn ({icon,link}) {
+function SocialIconBtn ({icon, link, altImg}) {
     return (
         <>
-            <a className="SocialIconBtn" href={link}>{icon}</a>
+            <a className="SocialIconBtn" href={link}><img src={icon} alt={altImg}/></a>
         </>
     )
 }

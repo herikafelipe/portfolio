@@ -10,11 +10,10 @@ function SocialIcons () {
     return (
         <>
             <div className="SocialIcons">
-                {/* <SocialIconBtn icon={Facebook} link="#"/> */}
-                <a className="SocialIconBtn" href=""><img src={Facebook} alt=""/></a>
-                <a className="SocialIconBtn" href=""><img src={LinkedIn} alt=""/></a>
-                <a className="SocialIconBtn" href=""><img src={GitHub} alt=""/></a>
-                <a className="SocialIconBtn" href=""><img src={Instagram} alt=""/></a>
+                <SocialIconBtn icon={Facebook} link="#"/>
+                <SocialIconBtn icon={LinkedIn} link="#"/>
+                <SocialIconBtn icon={GitHub} link="#"/>
+                <SocialIconBtn icon={Instagram} link="#"/>
                 
             </div>
         </>

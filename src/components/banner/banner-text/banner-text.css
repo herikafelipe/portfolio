@@ -3,7 +3,7 @@
 }
 
 .text1 {
-    color: #F86F03;
+    color: var(--hf-orange);
     font-size: 30px;
     font-weight: 600;
 }
@@ -19,7 +19,7 @@
 }
 
 span {
-    color: #F86F03;
+    color: var(--hf-orange);
 }
 
 .text4 {
