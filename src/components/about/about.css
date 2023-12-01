@@ -1,0 +1,13 @@
+.about {
+    height: 776px;
+    background-color: var(--hf-purple);
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.aboutme {
+    display: flex;
+    margin: 100px 250px;
+    justify-content: center;
+}

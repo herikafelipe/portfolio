@@ -1,5 +1,5 @@
 import "./assets/style/global.css"
-import HomePage from "./views/homepage.jsx"
+import HomePage from "./views/Homepage/homepage"
 
 function App() {
 

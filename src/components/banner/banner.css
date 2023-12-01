@@ -1,6 +1,6 @@
 .banner {
     height: 776px;
-    background-color: #31065A;
+    background-color: var(--hf-lavander);
     color: white;
     padding: 200px 146px;
     display: flex;

@@ -1,4 +1,4 @@
-.HireMeBtn {
+.ReadMoreBtn {
     width: 150px;
     height: 40px;
     border-radius: 40px;
@@ -6,4 +6,5 @@
     color: var(--hf-lavander);
     font-size: 18px;
     font-weight: 600;
+    margin-top: 15px;
 }

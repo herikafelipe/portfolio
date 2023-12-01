@@ -1,5 +1,5 @@
 .header {
-    background-color: #170550;
+    background-color: var(--hf-purple);
     padding: 0px 150px;
     height: 85px;
     display: flex;

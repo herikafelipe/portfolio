@@ -1,28 +1,28 @@
-.texts {
+.bannertexts {
     width: 500px;
 }
 
-.text1 {
+.bannertext1 {
     color: var(--hf-orange);
     font-size: 30px;
     font-weight: 600;
 }
 
-.text2 {
+.bannertext2 {
     font-size: 72px;
     font-weight: 600;
 }
 
-.text3 {
+.bannertext3 {
     font-size: 35px;
     font-weight: 600;
 }
 
-span {
+.banner-span {
     color: var(--hf-orange);
 }
 
-.text4 {
+.bannertext4 {
     font-size: 20px;
     font-weight: 400;
 }
