@@ -1,0 +1,7 @@
+.myservices {
+    height: 800px;
+    background-color: var(--hf-lavander);
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
