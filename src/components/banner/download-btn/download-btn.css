@@ -7,4 +7,13 @@
     color: white;
     font-size: 18px;
     font-weight: 600;
+    transition: 0.4s;
+}
+
+.DownloadBtn:hover {
+    cursor: pointer;
+    background-color: white;
+    color: var(--hf-orange);
+    font-weight: 700;
+    transition: 0.4s;
 }

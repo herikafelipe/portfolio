@@ -2,7 +2,7 @@ import "./about.css"
 import Title from "../title/title"
 import PerfilImg from "./perfil-img/perfil-img"
 import PerfilText from "./perfil-text/perfil-text"
-import ReadMoreBtn from "./read-more-btn/read-more-btn"
+import RoundBtn from "../round-button/round-button"
 
 
 function About() {
@@ -16,7 +16,7 @@ function About() {
                     </div>
                     <div>
                         <PerfilText/>
-                        <ReadMoreBtn/>
+                        <RoundBtn content="Read more..." link="#"/>
                     </div>
                 </div>
             </div>

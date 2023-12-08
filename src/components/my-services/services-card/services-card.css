@@ -1,0 +1,25 @@
+.card {
+    height: 400px;
+    width: 367px;
+    background-color: white;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+    padding: 30px;
+}
+
+.servicetitle {
+    color: var(--hf-purple);
+    font-size: 25px;
+    font-weight: 700;
+    margin: 30px;
+}
+
+.servicedescription {
+    color: var(--hf-purple);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}

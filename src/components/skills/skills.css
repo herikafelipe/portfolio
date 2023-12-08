@@ -1,0 +1,6 @@
+.myskills {
+    background-color: var(--hf-purple);
+    height: 800px;
+    margin-top: 0px;
+    border: 2px solid var(--hf-purple);
+}
