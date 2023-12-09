@@ -1,0 +1,14 @@
+.portitem {
+    border-radius: 10px;
+    margin: 8px;
+}
+
+.portitem img {
+    height: 200px;
+    border-radius: 10px;
+    margin-bottom: 16px;
+}
+
+.portitem:hover {
+    opacity: 50%;
+}

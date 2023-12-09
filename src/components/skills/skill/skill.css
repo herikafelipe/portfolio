@@ -1,0 +1,29 @@
+.skill {
+    display: flex;
+    margin-bottom: 40px;
+}
+
+.skill p {
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.skillpipe {
+    width: 835px;
+    height: 20px;
+    border-radius: 20px;
+    background-color: var(--hf-lavander);
+    padding: 5px;
+    margin: 0px 40px;
+
+}
+
+.skillline {
+    height: 10px;
+    border-radius: 10px;
+    background-color: var(--hf-orange);
+}
+
+.skilltitle {
+    width: 200px;
+}

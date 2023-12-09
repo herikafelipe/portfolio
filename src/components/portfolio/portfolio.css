@@ -1,0 +1,10 @@
+.portfolio {
+    background-color: var(--hf-lavander);
+    height: 800px;
+    margin-top: 0px;
+    border: 1px solid var(--hf-lavander);
+}
+
+.galeria {
+    margin: 180px;
+}
