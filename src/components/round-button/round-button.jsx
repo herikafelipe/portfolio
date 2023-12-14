@@ -1,6 +1,6 @@
 import "./round-button.css"
 
-function RoundBtn({link, content}) {
+function RoundBtn({ link, content }) {
     return (
         <>
             <a href={link}>

@@ -10,7 +10,8 @@
 }
 
 .roundbtn:hover {
+    color: white;
     cursor: pointer;
-    background-color: #cdb1e7;
+    background-color: var(--hf-orange);
     transition: 0.4s;
 }

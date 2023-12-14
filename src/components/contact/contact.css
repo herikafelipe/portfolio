@@ -1,0 +1,14 @@
+.contact {
+    background-color: var(--hf-purple);
+    border: 1px solid var(--hf-purple);
+    height: 800px;
+}
+
+.contactcontent {
+    display: flex;
+    margin: 100px 200px;
+}
+
+.contacts {
+    display: block;
+}

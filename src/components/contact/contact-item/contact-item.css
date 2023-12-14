@@ -1,0 +1,15 @@
+.contact-item {
+    display: flex;
+    align-items: center;
+    margin: 20px;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.contact-item img {
+    margin-right: 35px;
+}
+
+.contact-item p {
+    width: 250px;
+}

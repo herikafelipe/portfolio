@@ -12,11 +12,11 @@ function About() {
                 <Title firstWord="About" secondWord="Me" />
                 <div className="aboutme">
                     <div>
-                        <PerfilImg/>
+                        <PerfilImg />
                     </div>
                     <div>
-                        <PerfilText/>
-                        <RoundBtn content="Read more..." link="#"/>
+                        <PerfilText />
+                        <RoundBtn content="Read more..." link="#" />
                     </div>
                 </div>
             </div>
