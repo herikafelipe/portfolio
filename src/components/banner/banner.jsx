@@ -3,13 +3,15 @@ import BannerText from "./banner-text/banner-text"
 import BannerImg from "./banner-img/banner-img"
 
 
-function Banner () {
+function Banner() {
     return (
         <div className="banner">
-            <BannerText/>
-            <BannerImg/>
+            <div className="banner-content">
+                <BannerText />
+                <BannerImg />
+            </div>
         </div>
     )
 }
 
-export default Banner
+export default Banner 
