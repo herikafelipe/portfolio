@@ -1,8 +1,8 @@
 .portfolio {
-    background-color: var(--hf-lavander);
+    background-color: var(--hf-purple);
     height: 800px;
     margin-top: 0px;
-    border: 1px solid var(--hf-lavander);
+    border: 1px solid var(--hf-purple);
     display: flex;
     flex-direction: column;
     align-items: center;

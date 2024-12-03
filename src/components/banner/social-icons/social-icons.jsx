@@ -11,9 +11,9 @@ function SocialIcons () {
         <>
             <div className="SocialIcons">
                 <SocialIconBtn icon={Facebook} link="#"/>
-                <SocialIconBtn icon={LinkedIn} link="#"/>
-                <SocialIconBtn icon={GitHub} link="#"/>
-                <SocialIconBtn icon={Instagram} link="#"/>
+                <SocialIconBtn icon={LinkedIn} link="https://www.linkedin.com/in/herikafelipe/"/>
+                <SocialIconBtn icon={GitHub} link="https://github.com/herikafelipe"/>
+                <SocialIconBtn icon={Instagram} link="https://www.instagram.com/herika_felipe/"/>
                 
             </div>
         </>
