@@ -1,3 +1,4 @@
+import PropTypes from 'prop-types';
 import "./skill.css"
 
 function Skill({ skilltitle, percentual }) {
@@ -14,5 +15,11 @@ function Skill({ skilltitle, percentual }) {
         </>
     )
 }
+
+Skill.propTypes = {
+    skilltitle: PropTypes.string.isRequired, 
+    percentual: PropTypes.string.isRequired,
+};
+
 
 export default Skill

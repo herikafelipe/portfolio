@@ -6,11 +6,10 @@ const MenuHeader = () => {
         <>
             <div className="menuHeader">
              <MenuItem label="Home" link="#"/>
-             <MenuItem label="About Me" link="#"/>
-             <MenuItem label="Services" link="#"/>
-             <MenuItem label="Skills" link="#"/>
-             <MenuItem label="Portfolio" link="#"/>
-             <MenuItem label="Contact" link="#"/>
+             <MenuItem label="About Me" link="#about"/>
+             <MenuItem label="Skills" link="#skills"/>
+             <MenuItem label="Portfolio" link="#portfolio"/>
+             <MenuItem label="Contact" link="#contact"/>
             </div>
         </>
     )
