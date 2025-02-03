@@ -1,0 +1,54 @@
+{
+    "menu": {
+        "home": "Início",
+        "about": "Sobre Mim",
+        "skills": "Habilidades",
+        "portfolio": "Portfólio",
+        "contact": "Contato",
+        "hireMe": "Me Contrate!"
+    },
+    "banner": {
+        "translateButton": "Switch to English",
+        "greeting": "Olá, me chamo",
+        "greetingComp": "E eu sou ",
+        "opening": "Neste espaço, você vai conhecer um pouco sobre mim, alguns dos meus projetos e dar uma olhada no que ando criando. Se curtir o que vê, vamos trocar uma ideia! 😉"
+    },
+    "about": {
+        "title": "Sobre",
+        "titleComp": "Mim",
+        "text1": "Minha carreira na tecnologia é fruto de uma transição recente, após 10 anos atuando na área da construção civil. Essa experiência me trouxe habilidades valiosas, como resolução de problemas, proatividade e comunicação assertiva, além da maturidade para encarar desafios. Essas qualidades complementam minhas habilidades técnicas, tornando-me uma profissional completa e adaptável.",
+        "text2": "Além disso, sou uma pessoa de personalidade alegre, entusiasmada com o novo e sempre disposta a me conectar com colegas, compartilhar experiências e trocar conhecimentos.",
+        "text3": "Iniciei minha trajetória como desenvolvedora em 2023, no Instituto Pró-Hemo Saúde (IPH), onde estou reconstruindo do zero o site do instituto com Vue.js, SASS e versionamento de código com Git, resultando em um layout mais moderno e responsivo. Também estou desenvolvendo o novo site do IPH Educa com as mesmas tecnologias. Possuo afinidade com React.js, tanto em projetos pessoais quanto nos projetos desenvolvidos durante o curso de programação Full-Stack que concluí na Digital College em 2023.",
+        "text4": "Estou animada para expandir minhas experiências, explorar novos caminhos e conhecer pessoas incríveis para trocar vivências e compartilhar conhecimento. Se me der essa oportunidade, vamos construir algo incrível juntos!"
+    },
+    "skills": {
+        "title": "Minhas",
+        "titleComp": "Habilidades"
+    },
+    "portfolio": {
+        "title": "Porfólio",
+        "projects": {
+            "products_list": "Lista de Produtos",
+            "educational_page": "Página Educacional",
+            "courses_store_page": "Página Loja de Cursos",
+            "iph_webpage": "Página Web do IPH",
+            "iph_history": "Página História do IPH",
+            "actions_page": "Página Ações do IPH",
+            "clinic_page": "Página Clínica do IPH",
+            "contact_page": "Página de Contato IPH"
+        }
+    },
+    "contact": {
+    "title": "Contato",
+    "form": {
+      "name": "Nome",
+      "email": "Seu Email",
+      "phone": "Número (Whatsapp)",
+      "subject": "Assunto",
+      "message": "Sua Mensagem",
+      "send": "Enviar"
+    },
+    "successMessage": "Email enviado com sucesso!",
+    "errorMessage": "Erro ao enviar o email. Tente enviar uma mensagem pelo Whatsapp."
+  }
+}

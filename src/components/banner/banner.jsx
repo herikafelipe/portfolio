@@ -5,10 +5,14 @@ import BannerImg from "./banner-img/banner-img"
 
 function Banner() {
     return (
-        <div className="banner">
+        <div className="banner" id="banner">
             <div className="banner-content">
-                <BannerText />
-                <BannerImg />
+                <div className="banner-txt">
+                    <BannerText />
+                </div>
+                <div className="banner-img">
+                    <BannerImg />
+                </div>
             </div>
         </div>
     )

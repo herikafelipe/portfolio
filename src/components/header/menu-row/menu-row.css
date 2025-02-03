@@ -1,3 +1,12 @@
 .menuHeader {
-    margin: 0px 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+@media (max-width: 780px) {
+    .menuHeader {
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+    }
 }

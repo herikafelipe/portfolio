@@ -16,3 +16,10 @@
     transition: 0.4s;
 }
 
+@media (max-width: 780px) {
+    .roundbtn {
+        width: 140px;
+        height: 36px;
+        font-size: var(--font-size-mobile);
+    }
+}

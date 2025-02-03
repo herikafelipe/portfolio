@@ -1,5 +1,6 @@
 .skill {
     display: flex;
+    align-items: center;
     margin-bottom: 40px;
 }
 
@@ -9,13 +10,12 @@
 }
 
 .skillpipe {
-    width: 835px;
+    width: 100%;
     height: 20px;
     border-radius: 20px;
     background-color: var(--hf-purple);
     padding: 5px;
     margin: 0px 40px;
-
 }
 
 .skillline {
@@ -26,4 +26,27 @@
 
 .skilltitle {
     width: 200px;
+}
+
+@media (max-width: 780px) {
+    .skill {
+        margin-bottom: 20px;
+    }
+
+    .skill p {
+        font-size: 18px;
+    }
+
+    .skillpipe {
+        width: 100%;
+        height: 18px;
+        border-radius: 20px;
+        background-color: var(--hf-purple);
+        padding: 3px;
+        margin: 0px 20px;
+    }
+
+    .skilltitle {
+        width: 180px;
+    }
 }

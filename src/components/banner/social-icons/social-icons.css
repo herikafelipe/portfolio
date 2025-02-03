@@ -3,8 +3,7 @@
     border-radius: 50%;
     height: 15px;
     padding: 2px;
-    margin-right: 33px;
-
+    margin: 0 20px;
 }
 
 .SocialIcons {
@@ -15,4 +14,11 @@
     height: 13px;
     width: 14px;
     margin: 0px 2.5px;
+}
+
+@media (max-width: 780px) {
+    .SocialIconBtn {
+        margin: 0 16px;
+    }
+    
 }
