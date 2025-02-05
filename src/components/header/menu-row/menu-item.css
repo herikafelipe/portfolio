@@ -3,11 +3,18 @@
     font-family:Exo 2;
     font-size: 18px;
     font-weight: 600;
-    padding: 20px;
+    padding: 5px 20px;
     font-style: normal;
     text-decoration: none;
 }
 
 .MenuItem:hover {
     color: var(--hf-orange);
+}
+
+@media (max-width: 780px) {
+    .MenuItem {
+        font-size: var(--font-size-mobile);
+        padding: 5px;
+    }
 }

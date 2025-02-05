@@ -10,6 +10,13 @@
     margin-right: 35px;
 }
 
-.contact-item p {
-    width: 250px;
+@media (max-width: 780px) {
+    .contact-item {
+        font-size: 18px;
+        font-weight: 500;
+    }
+
+    .contact-item img {
+        margin-right: 25px;
+    }
 }

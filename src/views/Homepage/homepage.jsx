@@ -1,9 +1,9 @@
-import About from "../../components/about/about"
-import Banner from "../../components/banner/banner"
-import Contact from "../../components/contact/contact"
 import Header from "../../components/header/header"
-import Portfolio from "../../components/portfolio/portfolio"
+import Banner from "../../components/banner/banner"
+import About from "../../components/about/about"
 import Skills from "../../components/skills/skills"
+import Portfolio from "../../components/portfolio/portfolio"
+import Contact from "../../components/contact/contact"
 
 function HomePage () {
     return (
@@ -14,7 +14,6 @@ function HomePage () {
             <Skills/>
             <Portfolio/>
             <Contact/>
-
         </>
     )
 }

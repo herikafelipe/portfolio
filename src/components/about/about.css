@@ -1,13 +1,42 @@
 .about {
-    height: 776px;
+    width: 100%;
+    padding: 0 30px;
     background-color: var(--hf-purple);
-    color: white;
+    border: 1px solid var(--hf-purple);
     display: flex;
     flex-direction: column;
 }
 
 .aboutme {
     display: flex;
-    margin: 100px 250px;
-    justify-content: center;
+    margin: 100px auto;
+    width: 100%;
+    max-width: 1150px;
+    justify-content: space-around;
+}
+
+.perfil-img {
+    margin-right: 50px;
+}
+
+@media (max-width: 780px) {
+    .about {
+        width: 100%;
+        padding: 0 15px;
+    }
+
+    .aboutme {
+        display: flex;
+        flex-direction: column;
+        margin: 50px auto;
+    }
+
+    .perfil-img {
+        margin: 0 auto;
+    }
+
+    .perfil-txt {
+        margin-top: 40px;
+        text-align: justify;
+    }
 }

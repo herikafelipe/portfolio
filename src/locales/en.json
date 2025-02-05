@@ -1,0 +1,54 @@
+{
+    "menu": {
+        "home": "Home",
+        "about": "About Me",
+        "skills": "Skills",
+        "portfolio": "Portfolio",
+        "contact": "Contact",
+        "hireMe": "Hire Me!"
+    },
+    "banner": {
+        "translateButton": "Mudar para Português",
+        "greeting": "Hi, it's me",
+        "greetingComp": "And I'm a ",
+        "opening": "In this space, you'll get to know a little about me, check out some of my projects, and see what I've been creating. If you like what you see, let's chat! 😉"
+    },
+    "about": {
+        "title": "About",
+        "titleComp": "Me",
+        "text1": "My career in technology is the result of a recent transition, after 10 years working in the construction industry. This experience gave me valuable skills, such as problem-solving, proactivity and assertive communication, in addition to the maturity to face challenges. These qualities complement my technical skills, making me a well-rounded and adaptable professional.",
+        "text2": "In addition, I am a person with a cheerful personality, enthusiastic about new things and always willing to connect with colleagues, share experiences and exchange knowledge.",
+        "text3": "I began my career as a developer in 2023, at Instituto Pró-Hemo Saúde (IPH), where I am rebuilding the institute's website from scratch with Vue.js, SASS and code versioning with Git, resulting in a more modern and responsive layout. I am also developing the new IPH Educa website with the same technologies. I have an affinity for React.js, both in personal projects and in projects developed during the Full-Stack programming course that I completed at Digital College in 2023.",
+        "text4": "I'm excited to expand my experiences, explore new paths and meet incredible people to exchange experiences and share knowledge. If you give me this opportunity, let's build something incredible together!"
+    },
+    "skills": {
+        "title": "My",
+        "titleComp": "Skills"
+    },
+    "portfolio": {
+        "title": "Porfolio",
+        "projects": {
+            "products_list": "Products List",
+            "educational_page": "Educational Page",
+            "courses_store_page": "Courses Store Page",
+            "iph_webpage": "IPH WebPage",
+            "iph_history": "IPH History Page",
+            "actions_page": "IPH Actions Page",
+            "clinic_page": "IPH Clinic Page",
+            "contact_page": "IPH Contact Page"
+        }
+    },
+    "contact": {
+    "title": "Contact",
+    "form": {
+      "name": "Name",
+      "email": "Your Email",
+      "phone": "Phone Number (WhatsApp)",
+      "subject": "Subject",
+      "message": "Your Message",
+      "send": "Send"
+    },
+    "successMessage": "Email sent successfully!",
+    "errorMessage": "Error sending email. Try sending a message via WhatsApp."
+  }
+}
